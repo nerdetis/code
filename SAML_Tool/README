@@ -1,5 +1,5 @@
-SAML Response Decoder
-A simple utility script that decodes a base64-encoded SAML response and exports it as a readable XML file.
+SAML Response Decoder/Encoded
+A simple utility script that decodes/encodes a base64-encoded SAML response and exports it as a readable XML file.
 Place your base64-encoded SAML response in encoded.txt in the same directory as the script, then run it. 
 The decoded output will be saved to decoded.xml. 
 
